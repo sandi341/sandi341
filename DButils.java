@@ -1,1 +1,1 @@
-This is java file contains DB connection
+This is java file contains db connection
